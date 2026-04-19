@@ -232,12 +232,30 @@ DateTable       ──(1)──(*) ──┘
 ## 📁 Repository Structure
 
 ```
-CRM-Sales-Dashboard/
+B2B Sales Pipeline & Performance Analytics Dashboard/
 │
 ├── README.md
-├── CRM_Sales_Performance.pbix
+├── B2B Sales Pipeline & Performance Analytics Dashboard.pbix
+│
 ├── data/
-└── dashboard_screenshots/
+│   ├── data_dictionary.csv
+│   ├── dim_accounts.csv
+│   ├── dim_products.csv
+│   ├── dim_sales_teams.csv
+│   └── fact_sales_pipeline.csv
+│
+├── dashboard_screenshots/
+│   ├── 00_landing_overview.jpeg
+│   ├── 01_executive_overview.jpeg
+│   ├── 02_sales_trends_performance.jpeg
+│   ├── 03_sales_manager_performance.jpeg
+│   ├── 04_sales_agent_performance.jpeg
+│   ├── 05_product_strategy_performance.jpeg
+│   └── 06_account_intelligence.jpeg
+│
+└── docs/
+    ├── b2b-sales-pipeline-documentation.pdf
+    └── b2b-sales-dashboard-preview.pdf
 ```
 
 ---
