@@ -4,20 +4,20 @@
 
 ## 📋 Project Overview
 
-A business intelligence dashboard that analyzes **8,800+ B2B sales opportunities** to uncover performance drivers, revenue concentration risks, and product strategy insights — enabling data-driven decision-making across sales teams.
+A business intelligence dashboard analyzing **8,800+ B2B sales opportunities** to uncover performance drivers, revenue concentration risks, and product strategy insights.
 
-A comprehensive 6-page Power BI dashboard analyzing **8,800 B2B sales opportunities** from a fictitious computer hardware company. The project covers sales team performance, agent efficiency, quarterly trends, product strategy, and account intelligence — built on a clean Star Schema data model with 15+ custom DAX measures.
+Built using Power BI on a clean Star Schema data model with 15+ custom DAX measures, this project delivers a full 360° view of sales performance across teams, agents, products, and accounts.
 
-> **Data Source:** [Maven Analytics — CRM Sales Opportunities Dataset](https://mavenanalytics.io/data-playground/crm-sales-opportunities)  
+> **Data Source:** Maven Analytics — CRM Sales Opportunities Dataset  
 > **Tool:** Power BI Desktop  
-> **Domain:** B2B Sales | CRM | Computer Hardware  
+> **Domain:** B2B Sales | CRM | Computer Hardware
 
 ---
 
 ## 🎥 Live Demo
 
-👉 **Video Walkthrough:**  
-https://vimeo.com/1182645961?share=copy&fl=sv&fe=ci  
+👉 **Watch Full Dashboard Walkthrough (Video):**  
+🔗 https://vimeo.com/1182645961
 
 ---
 
@@ -27,12 +27,14 @@ https://vimeo.com/1182645961?share=copy&fl=sv&fe=ci
 |--------------|--------------|---------------------|
 | ![Landing](dashboard_screenshots/00_landing_overview.jpeg) | ![Trends](dashboard_screenshots/02_sales_trends_performance.jpeg) | ![Accounts](dashboard_screenshots/06_account_intelligence.jpeg) |
 
+> Full dashboard contains 7 interactive pages with drill-through, tooltips, and dynamic filtering.
+
 ---
 
 ## 📄 Full Documentation
 
-👉 **Detailed Project Documentation:**  
-B2B_Sales_Pipeline_Documentation  
+👉 **Deep Dive Analysis Report:**  
+[B2B Sales Pipeline Documentation](B2B_Sales_Pipeline_Documentation)
 
 ---
 
