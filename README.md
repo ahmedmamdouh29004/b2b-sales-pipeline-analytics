@@ -15,7 +15,7 @@ Built using Power BI on a clean Star Schema data model with 15+ custom DAX measu
 
 ## 🎥 Live Demo
 
-👉 **Watch Full Dashboard Walkthrough (Video):**  
+👉 **Interactive Dashboard Walkthrough (Recommended):**  
 🔗 https://vimeo.com/1182645961
 
 ---
